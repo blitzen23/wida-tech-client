@@ -21,3 +21,8 @@ I used ReactJS along with the help of Tailwind CSS (for the css) and ChartJS (fo
      ```
      npm start
      ```
+
+## Features
+- Add Invoice
+- Show Invoice
+- Show Graph for Project Revenue for Daily, Weekly, and Monthly
